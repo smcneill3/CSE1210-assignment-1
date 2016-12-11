@@ -17,7 +17,8 @@ You will have administrative priviliges for this assignment (you will notice a S
 ---
 
 ## Setting up a GitHub hosted web page
-Follow these instructions to set up a GitHub hosted web page of yuor assignment.
+Follow these instructions to set up a GitHub hosted web page of your assignment.
+
 1. Go to the Setting tab.
 2. Scroll down to the __GitHub Pages__ heading (about half way down the page).
 3. In the __Source__ pull down menue select __master branch__.
