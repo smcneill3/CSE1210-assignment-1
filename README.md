@@ -44,4 +44,4 @@ You will now replace the default web page text with your own information.
 5. At the bottom of the web page include the following text __See Wikipedia for more information__ with the text linking to the corresponding Wikipedia page for the country.
 6. Bonus Challenge: Add a picture of the country's flag to your web page.  
 
-Before turning in your assignment here make sure that the web page is formatted properly and nicely. Spelling mistakes, typos and ugly formatting will all result in deductions.
+Before turning in your assignment make sure that the web page is formatted properly and nicely. Spelling mistakes, typos and ugly formatting will all result in deductions.
