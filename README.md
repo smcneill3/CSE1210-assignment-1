@@ -12,7 +12,7 @@ For this assignment the assignment respository you will be working in will be pu
 * Always ask your teacher if you are not sure about if something is appropriate or not.
 
 ### Administrative Privileges
-You will have administrative priviliges for this assignment (you will notice a Settings tab in your repository). This will allow you to publish your repository as a webpage. Administrative privileges also allows you to permanently delete your repository and to change various other settings that could make your repository unusable or inacessible for your teacher to mark. Be very cautious wheen changing settings in the Settings tab and follow instructions carefully.
+You will have administrative privileges for this assignment (you will notice a Settings tab in your repository). This will allow you to publish your repository as a webpage. Administrative privileges also allows you to permanently delete your repository and to change various other settings that could make your repository unusable or inacessible for your teacher to mark. Be very cautious wheen changing settings in the Settings tab and follow instructions carefully.
 
 ---
 
