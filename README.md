@@ -35,4 +35,11 @@ Open up two tabs in your browser, navigate to your webpage in one of the tabs an
 1. Change the line __This project is maintained by QEHSCS__ by replacing QEHSCS with your name.
 2. Change to title of the web page from __Cse1210-assignment1__ to __CSE1210-Assignment1__.
 3. Find and look closely at the HTML markup in the ```index.html``` file where the text of web page is included.. In particular notice the opening and closing  tags that are used to format the text, in particular the ```<h3>``` and ```</h3>```, ```<p>``` and ```</p>``` and ```<a href="...">``` and ```</a>``` tags.
-4. 
+4. You will now replace the default web page text with your own information.
+  i. Select a country of your choice 
+  ii. Replace the title of the web page with the name of the country. Note that the title of the web page appears both in the tab and on top of the page.
+  iii. Set up the following headings: Capital, Official Languages, Population Size, Land Area in Square Kilometers, Currency. Follwoing each heading include the necessary text providing the indicated information. For example, under the heading Capital provide the name of the capital city of the country.
+  iv. At the bottom of the web page include the following text __See Wikipedia for more information__ with the text linking to the corresponding Wikipedia page for the country.
+5. Bonus Challenge: Add a picture of the country's flag to your web page.  
+
+Before turning in your assignment here make sure that the web page is formatted properly and nicely. Spelling mistakes, typos and ugly formatting will all result in deductions.
