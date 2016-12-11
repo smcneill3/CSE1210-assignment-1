@@ -38,9 +38,9 @@ Before continuing find and look closely at the HTML markup in the ```index.html`
 
 You will now replace the default web page text with your own information.
 
- 2. Select a country of your choice 
- 3. Replace the title of the web page with the name of the country. Note that the title of the web page appears both in the tab and on top of the page.
- 4. Set up the following headings: Capital, Official Languages, Population Size, Land Area in Square Kilometers, Currency. Follwoing each heading include the necessary text providing the indicated information. For example, under the heading Capital provide the name of the capital city of the country.
+2. Select a country of your choice 
+3. Replace the title of the web page with the name of the country. Note that the title of the web page appears both in the tab and on top of the page.
+4. Set up the following headings: Capital, Official Languages, Population Size, Land Area in Square Kilometers, Currency. Follwing each heading include the necessary text providing the indicated information. For example, under the heading Capital provide the name of the capital city of the country.
 5. At the bottom of the web page include the following text __See Wikipedia for more information__ with the text linking to the corresponding Wikipedia page for the country.
 6. Bonus Challenge: Add a picture of the country's flag to your web page.  
 
