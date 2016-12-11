@@ -21,7 +21,7 @@ Follow these instructions to set up a GitHub hosted web page of your assignment.
 
 1. Go to the Setting tab.
 2. Scroll down to the __GitHub Pages__ heading (about half way down the page).
-3. In the __Source__ pull down menue select __master branch__.
+3. In the __Source__ pull down menu select __master branch__.
 4. Click the __Launch automatic page generator__ button. 
 5. On the next page (called New project site), scroll to the bottom and click on the green button __Continue to layouts__. Do not change any settings or text on this page.
 6. On the next page, select a page template (any page template will do) and click on the green __Publish page__ button...
