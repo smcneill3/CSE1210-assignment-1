@@ -34,4 +34,5 @@ Open up two tabs in your browser, navigate to your webpage in one of the tabs an
 
 1. Change the line __This project is maintained by QEHSCS__ by replacing QEHSCS with your name.
 2. Change to title of the web page from __Cse1210-assignment1__ to __CSE1210-Assignment1__.
-3. Find and look closely at the HTML markup in the ```index.html``` file where the text of web page is included.. In particular notice the opening and closing  tags that are used to format the text, for example: <h3> and </h3>
+3. Find and look closely at the HTML markup in the ```index.html``` file where the text of web page is included.. In particular notice the opening and closing  tags that are used to format the text, in particular the ```<h3>``` and ```</h3>```, ```<p>``` and ```</p>``` and ```<a href="...">``` and ```</a>``` tags.
+4. 
