@@ -27,6 +27,6 @@ Follow these instructions to set up a GitHub hosted web page of your assignment.
 6. On the next page, select a page template (any page template will do) and click on the green __Publish page__ button...
 7. ... this will take you back to your repository landing page. Notice the link to your published web page on top of the page (in a light blue box). The URL for your web page will have the following format https://qehscs.github.io/CSE1210-assignment-1-Tony-Stark-CS/ where Tony-Stark-CS will be replaced with your GitHub user name.
 8. Copy the web page URL 
-9. Open up this README.md file for editing and paste in the URL on top of the page after the "My URL: " line. Commit the READMe.MD file.
+9. Open up this README.md file for editing and paste in the URL on top of the page after the "My URL: " line. Commit the README.md file.
 
 ## Customizing the Webpage
