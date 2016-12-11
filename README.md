@@ -31,6 +31,7 @@ Follow these instructions to set up a GitHub hosted web page of your assignment.
 
 ## Customizing the Webpage
 Open up two tabs in your browser, navigate to your webpage in one of the tabs and to your assignment repository in the other tab. Open up the ```index.html``` file for editing in your browser and customize your web page in the following ways:
+
 1. Change the line __This project is maintained by QEHSCS__ by replacing QEHSCS with your name.
 2. Change to title of the web page from __Cse1210-assignment1__ to __CSE1210-Assignment1__.
 3. Pick 
